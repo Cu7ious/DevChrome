@@ -5,7 +5,6 @@ A Chrome instance for development
 Highly inspired by [this approach](http://www.justin-credible.net/2016/01/05/running-a-second-instance-of-chrome-for-development/).
 
 In fact this is an AppleScript, which launches existing Google Chrome with bunch of useful flags for development.
-
 It's possible to install extensions, they will be installed separately for this particular instance of Chrome.
 
 ## List of my extensions:
